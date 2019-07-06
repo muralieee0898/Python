@@ -3,6 +3,6 @@ v="a","e","i","o","u"
 if n in v:
     print("vowels")
 elif n.isalpha():
-    print("consonants")
+    print("Consonant")
 else:
     print("invalid")
